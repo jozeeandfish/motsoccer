@@ -9,6 +9,7 @@ MOT-SOCCER benchmark
 
 
 Annotation
+
 For video sequences collected in the MOT-SOCCER benchmark, we devoted to accurately annotate tracking information of player as ground truth. Each video was labeled according to the following uniform standards.
 1. Mark the object with a rectangular bounding box. The box should cover the complete player body as accurate as possible. 
 2. Each sequence defines a region of interest (ROI). Only the objects whose posi-tion locates in the region of interest are marked.
